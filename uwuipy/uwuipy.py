@@ -27,13 +27,11 @@ class uwuipy:
         "***boops your nose***",
         "***wags my tail***",
         "***pounces on you***",
-        "***nuzzles your necky wecky***",
         "***licks lips***",
         "***glomps and huggles***",
         "***glomps***",
         "***looks around suspiciously***",
         "***smirks smuggly***",
-        "***breaks into your house and aliases neofetch to rm -rf --no-preserve-root /***",
     ]
 
     # Because I got annoyed at them not being toggleable.
