@@ -109,7 +109,7 @@ class uwuipy:
 
     def __init__(
         self,
-        seed: int | None = None,
+        seed: None = None,
         stutter_chance: float = 0.1,
         face_chance: float = 0.05,
         action_chance: float = 0.075,
